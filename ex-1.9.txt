@@ -1,0 +1,4 @@
+commands used:
+devopsdockeruh/ports_exercise
+docker run -p 1234:80 devopsdockeruh/ports_exercise
+*went to localhost:1234 with browser*

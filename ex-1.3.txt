@@ -1,0 +1,4 @@
+Secret message is: "This is the secret message"
+
+Commands used: went to https://hub.docker.com/ and searched for "devopsdockeruh/pull_exercise".
+Followed link to GitHub page and found password in the readme-file.

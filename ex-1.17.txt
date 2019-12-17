@@ -1,0 +1,2 @@
+I made a simple dev environment for NodeJS applications. Inside the container the user can initialize and run a NodeJS application.
+Link to docker hub: https://hub.docker.com/repository/docker/jojuparp/node-devenv

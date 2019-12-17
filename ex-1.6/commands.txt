@@ -1,0 +1,6 @@
+commands used for exercise:
+ docker pull devopsdockeruh/overwrite_cmd_exercise
+ mkdir ex-1.6
+ cd ex-1.6
+ *made this file*
+ docker build -t docker-clock .

@@ -1,0 +1,10 @@
+commands used:
+docker run -it ubuntu:16.04 bash
+apt update
+apt install curl
+exit
+docker start awesome_allen
+docker exec -it awesome_allen sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
+helsinki.fi
+
+//note: the above script provived the correct result without any modifications. 
